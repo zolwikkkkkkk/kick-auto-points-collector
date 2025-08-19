@@ -1,7 +1,7 @@
 {
-  "channels": ["rybsonlol", "xmerghani", "banduracartel", "neexcsgo", "remsua", "grendy"],
-  "wait_times": {
-    "livestream_active": {
+  "channels": ["Szzalony"],
+  "wait_times": {5 minutes}
+    "livestream_active": {yes}
       "min": 120,
       "max": 300
     },
@@ -80,3 +80,4 @@
     "[emote:1730840:emojiYum]"
   ]
 }
+
